@@ -1,5 +1,5 @@
 import Bounties from "./Components/Bounties"
-import './app.css'
+import './styles/main.css'
 
 function App() {
   return (

@@ -1,5 +1,5 @@
 import { Droppable } from "react-beautiful-dnd";
-import ListItem from "./ListItem";
+import ListItem from "../ListItem";
 import React from "react";
 
 const DraggableElement = ({ prefix, elements, listTitle }) => {

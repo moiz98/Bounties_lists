@@ -1,6 +1,6 @@
 import React from "react";
 import { DragDropContext } from "react-beautiful-dnd";
-import DraggableElement from "./DragableElement";
+import DraggableElement from "../DragableElement";
 import { dragItems } from "../../data";
 
 const removeFromList = (list, index) => {
